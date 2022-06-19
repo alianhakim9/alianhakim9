@@ -5,10 +5,6 @@
       <br/>
         <p align="center">
           <a href="https://github.com/alianhakim9/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alianhakim9&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="alianhakim9 :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/alianhakim9/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alianhakim9&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alianhakim9&theme=gruvbox&hide_border=true" />
           </a>
