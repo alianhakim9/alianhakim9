@@ -1,12 +1,20 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/alianhakim9/alianhakim9/blob/main/resources/img/waving.gif">, I'm Ali</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/alianhakim9/alianhakim9/resource/waving.gif">, I'm Ali</h1>
 <h4 align="center">a software developer an also an engineering students at bandung state university</h4>
-</div>
-
-<div align="center">
-  <a href="#">
-  <img  src="https://github.com/alianhakim9/alianhakim9/resource/img/grid-snake.svg"
-       alt="snake" /></a>
+ <div>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/alianhakim9/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alianhakim9&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="alianhakim9 :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/alianhakim9/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alianhakim9&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alianhakim9&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>   
 </div>
 
 <details>
@@ -64,26 +72,6 @@
  </p>
 </div>
 </details>
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/alianhakim9/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alianhakim9&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="alianhakim9 :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/alianhakim9/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alianhakim9&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alianhakim9&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
-
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
