@@ -37,7 +37,7 @@
       <a href="https://wa.me/+62895385583709" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-    <a href="https://wa.me/+62895385583709" target="blank"><img align="center"
+    <a href="https://www.youtube.com/channel/UC1YlB5M-Wx9G6Fr6AiG9fOw" target="blank"><img align="center"
          src="https://img.shields.io/badge/youtube-%23E4405F.svg?style=for-the-badge&logo=Youtube&logoColor=white"
          alt="azzar" height="30"/></a>
      <br>
