@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/alianhakim9/alianhakim9/blob/main/resource/waving.gif">, I'm Ali</h1>
-<h4 align="center">a software developer an also an engineering students at bandung state university</h4>
+<h4 align="center">a software developer an also an computer science students</h4>
  <div>
       <br/>
         <p align="center">
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+<!--   <summary>🧮 about</summary> -->
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
