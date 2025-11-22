@@ -1,7 +1,7 @@
 # **Curriculum Vitae – Alian Hakim**
 
 📍 Bandung Barat, Jawa Barat  
-📧 **alianhakim9@gmail.com** ☎️ **0895-3855-83709**  
+📧 **alianhakim9@gmail.com**  
 🌐 [https://alianhakim9.vercel.app](https://alianhakim9.vercel.app) 💻 [github.com/alianhakim9](https://github.com/alianhakim9)
 
 ---
