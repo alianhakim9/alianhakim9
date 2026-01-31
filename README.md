@@ -1,4 +1,4 @@
-# **Curriculum Vitae – Alian Hakim**
+# **Alian Hakim**
 
 📍 Bandung Barat, Jawa Barat  
 📧 **alianhakim9@gmail.com**  
