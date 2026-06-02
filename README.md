@@ -1,9 +1,5 @@
 # **Alian Hakim**
-
 📍 Bandung Barat, Jawa Barat  
-📧 **alianhakim9@gmail.com**  
-🌐 [https://alianhakim9.vercel.app](https://alianhakim9.vercel.app) 💻 [github.com/alianhakim9](https://github.com/alianhakim9)
-
 ---
 
 ## 🧭 Profil Singkat
@@ -16,12 +12,9 @@ Full-Stack Developer dengan fokus pada pengembangan aplikasi modern, berfokus da
 | **Kategori**             | **Detail**                                             |
 | ------------------------ | ------------------------------------------------------ |
 | **Bahasa & Framework**   | PHP (Laravel), JavaScript (Vue, React), Dart (Flutter) |
-| **Database**             | MySQL, Firebase (dasar)                                |
+| **Database**             | Postgre, Redis, MySQL, Firebase (dasar)                |
 | **Desain & Prototyping** | Figma, UI/UX Principles                                |
 | **Deployment & Tools**   | Git/GitHub, CPanel, Google Play Console                |
 | **Tambahan**             | Office Tools, Photoshop, CapCut, Audacity              |
 
 ---
-## 🌐 Personal Web
-
-🔗 [https://alianhakim9.vercel.app/work](https://alianhakim9.vercel.app/work)
