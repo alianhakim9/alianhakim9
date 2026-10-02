@@ -2,7 +2,7 @@
 
 Laravel Developer focused on building and maintaining web applications.
 
-Currently working with Laravel, PHP, Livewire, MySQL, and JavaScript.
+Currently working on internal web applications.
 
 ## Tech Stack
 
